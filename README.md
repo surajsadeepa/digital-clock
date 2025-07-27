@@ -9,4 +9,4 @@ A simple digital clock built with python and Tkinter
 1.Make sure you have Python installed.
 2.Run the following script.
 
-## Also you can convert this to an .exe file
+Also you can convert this to an '.exe' file using tools like 'pyinstaller' or 'cmd':
